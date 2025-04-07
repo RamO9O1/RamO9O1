@@ -44,12 +44,6 @@
 
 ---
 
-## 🧪 Projects
-
-### 💻 Laptop Purchase Tracker (Java, Swing, JDBC)
-A desktop application that manages laptop purchase records, reducing manual effort by 30%.
-
----
 
 ## 📫 Let's Connect
 
